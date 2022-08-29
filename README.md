@@ -1,5 +1,13 @@
 # restricted-boltzmann-machine
 
+## RBM-MHC
+
+https://github.com/bravib/rbm-mhc
+
+https://github.com/jertubiana/PGM
+
+
+
 ## Restricted Boltzmann Machine and Its Application
 
 https://www.latentview.com/blog/restricted-boltzmann-machine-and-its-application/
