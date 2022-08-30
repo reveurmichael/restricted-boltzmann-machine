@@ -1,4 +1,4 @@
-
+rootf='/home/user/rbm-mhc'
 
 import argparse
 parser = argparse.ArgumentParser() 

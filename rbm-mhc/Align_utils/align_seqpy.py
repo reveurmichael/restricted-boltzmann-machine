@@ -1,4 +1,4 @@
-
+rootf='/home/user/rbm-mhc'
 
 import numpy as np
 curr_int = np.int16

@@ -302,3 +302,11 @@ In contrast, Autoencoders almost specify nothing about the topology of the netwo
 RBMs are also a neural network. But interpretation of the network is totally different. RBMs interpret the network as not a feedforward, but a bipartite graph where the idea is to learn joint probability distribution of hidden and input variables. They are viewed as a graphical model. Remember that both AutoEncoder and CNN learns a deterministic function. RBMs, on the other hand, is generative model. It can generate samples from learned hidden representations. There are different algorithms to train RBMs. However, at the end of the day, after learning RBMs, you can use its network weights to interpret it as a feedforward network.
 
 
+# Semi-supervised learning
+
+https://bdtechtalks.com/2021/01/04/semi-supervised-machine-learning/
+
+https://www.datarobot.com/blog/semi-supervised-learning/
+
+https://www.altexsoft.com/blog/semi-supervised-learning/
+

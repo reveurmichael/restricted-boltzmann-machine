@@ -1,5 +1,5 @@
 function alignc_new = balign_peps_seed(seqs_seed, lea, lepmin, lepmax, seqs_new, weights)
-
+rootf='/home/user/rbm-mhc';
 
 %%%% Build HMM profile from seqs_seed %%%%
 yes_weight = 0;
