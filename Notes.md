@@ -310,3 +310,15 @@ https://www.datarobot.com/blog/semi-supervised-learning/
 
 https://www.altexsoft.com/blog/semi-supervised-learning/
 
+
+# AUC and ROC
+
+https://www.baeldung.com/cs/ml-accuracy-vs-auc#2-imbalanced-data
+
+https://datascience.stackexchange.com/questions/806/advantages-of-auc-vs-standard-accuracy
+
+https://www.quora.com/Why-is-AUC-a-better-measure-of-an-algorithms-performance-than-accuracy
+
+https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc
+
+
