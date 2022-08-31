@@ -1,3 +1,9 @@
+# CNN
+
+https://iq.opengenus.org/hidden-layers/
+
+![](images/cnn/wfk.png)
+
 # PCA
 
 https://towardsdatascience.com/principal-component-analysis-pca-explained-visually-with-zero-math-1cbf392b9e7d
